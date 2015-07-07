@@ -1,0 +1,11 @@
+body {
+	background-color: #ddffee;
+}
+
+#wrap {
+	margin: 10px auto auto auto;
+	width: 1080px;
+	height: 600px;
+	background-color: #ff0000;
+	float: center;
+}
